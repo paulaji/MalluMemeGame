@@ -1,5 +1,3 @@
-# MalluMemeGame
-
 # MalluMemeGame - A Fun Meme Shooting Game
 
 <img src="Screenshot_9.jpeg" alt="Screenshot 9">
