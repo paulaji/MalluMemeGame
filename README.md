@@ -1,6 +1,6 @@
 # MalluMemeGame - A Fun Meme Shooting Game
 
-<img src="Screenshot_9.jpeg" alt="Screenshot 9">
+<img src="Screenshot_9.png" alt="Screenshot 9">
 
 MalluMemeGame is an entertaining shooting game that lets you play as the legendary actor Mamukoya, known for his humorous dialogues and expressions. In this game, you'll shoot coconuts at gangster memes that are invading your territory. It's your chance to show off your meme-shooting skills and bring laughter to the world!
 
